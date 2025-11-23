@@ -55,7 +55,7 @@ Buat proyek di [Google Cloud Console](https://console.cloud.google.com/), aktifk
 
 ### 2. Konfigurasi Android Manifest
 
-Buka file `android/app/src/main/AndroidManifest.xml` dan tambahkan meta-data berikut di dalam tag `<application>`:
+Tambah dan Buka file `android/app/src/main/AndroidManifest.xml` dan tambahkan meta-data berikut di dalam tag `<application>`:
 
 ```xml
 <meta-data
